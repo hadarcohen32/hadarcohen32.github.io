@@ -6,7 +6,7 @@ body {
 
 }
 body {
-font-family: 'Cormorant', serif;
+  font-family: "essonnes-text";
     background-color: black;
 }
 hr {
@@ -106,6 +106,7 @@ header .header-content .header-content-inner p {
     font-size: 125px;
 color: black;
         text-shadow: -2px 0 #520A99, 0 2px #520A99, 2px 0 #520A99, 0 -2px #520A99;
+  font-family: "essonnes-headline";
 
 
   }
