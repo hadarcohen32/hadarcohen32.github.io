@@ -7,7 +7,7 @@ body {
 }
 body {
   font-family: "essonnes-text";
-    background-color: black;
+    background-color: #1a1a1a;
 }
 hr {
   border-color: rgba(255, 255, 255, 0.7);
@@ -82,7 +82,7 @@ header .header-content .header-content-inner hr {
 header .header-content .header-content-inner p {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
-  font-size: 30px;
+  font-size: 28px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
@@ -103,16 +103,14 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
   header .header-content .header-content-inner h1 {
-    font-size: 125px;
-color: black;
-        text-shadow: -2px 0 #520A99, 0 2px #520A99, 2px 0 #520A99, 0 -2px #520A99;
+    font-size: 120px;
+color: #520A99;
   font-family: "essonnes-headline";
 
 
   }
   header .header-content .header-content-inner p {
-    font-size: 30px;
-    max-width: 80%;
+    font-size: 28px;
     margin-left: auto;
     margin-right: auto;
     font-style: italic;
@@ -257,8 +255,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .section-heading {
-  color: black;
-  text-shadow: -1px 0 #520A99, 0 1px #520A99, 1px 0 #520A99, 0 -1px #520A99;
+  color: #520A99;
   font-size: 72px;
 }
 
@@ -272,7 +269,8 @@ font-size: 48px;
 }
 
 .carousel-inner .item {
-    font-size: 40px;
+  padding-top: 13%;
+    font-size: 200px;
     color: #FFDC00;
     opacity: .2;
 
