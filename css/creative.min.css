@@ -7,8 +7,8 @@ body {
 }
 body {
   font-family: "essonnes-text";
-      color: #1F1F1F;
-    background-color: #EBEBEB;
+  color: #3B3738;
+  background-color: #F5F3EE;
 }
 hr {
   border-color: rgba(255, 255, 255, 0.7);
@@ -82,7 +82,7 @@ header .header-content .header-content-inner hr {
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  font-size: 28px;
+  font-size: 36px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
@@ -110,10 +110,9 @@ color: #520A99;
 
   }
   header .header-content .header-content-inner p {
-    font-size: 28px;
+    font-size: 36px;
     margin-left: auto;
     margin-right: auto;
-    font-style: italic;
   }
 }
 .section-heading {
@@ -185,7 +184,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-default .badge {
   color: #FFDC00;
-  background-color: #222222;
+  background-color: #FFDC00;
 }
 .btn-primary {
   color: #FFDC00;
@@ -251,12 +250,19 @@ fieldset[disabled] .btn-primary.active {
 ::selection {
   color: #FFDC00;
   text-shadow: none;
-  background: #222222;
 }
+
+img::selection {
+  color: #FFDC00;
+  background: white;}
+
+  body {
+  webkit-tap-highlight-color: #222222;}
 
 .section-heading {
   color: #520A99;
   font-size: 72px;
+  padding-bottom: 4%;
 }
 
 p {
@@ -268,8 +274,8 @@ font-size: 48px;
 }
 
 .carousel-inner .item {
-  padding-top: 13%;
-    font-size: 200px;
+  padding-top: 9%;
+    font-size: 220px;
     color: #FFDC00;
     opacity: .2;
 
