@@ -6,7 +6,7 @@ body {
 
 }
 body {
-  font-family: "essonnes-text";
+  font-family: "mrs-eaves";
   color: #bf8046;
   background-color: #435672;
 }
@@ -35,9 +35,8 @@ h5,
 h6 {
 }
 p {
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.5;
-  margin-bottom: 20px;
 }
 
 .text-faded {
@@ -260,7 +259,7 @@ img::selection {
   webkit-tap-highlight-color: #222222;}
 
 .section-heading {
-  color: #520A99;
+  color: #ce502e;
   font-size: 72px;
   padding-bottom: 4%;
 }
