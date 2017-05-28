@@ -279,7 +279,33 @@ img::selection {
     font-size: 220px;
     color: #FFDC00;
     opacity: .2;
+}
 
+.title {
+font-size: 26px;
+padding-top: 5%;
+color:#ce502e;
+font-weight: bold;
 
 }
+
+.leader {
+font-size: 24px;
+
+}
+
+.description {
+    font-size: 22px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  color: white;
+}
+
+.bio {
+  font-style: italic;
+  font-size: 22px;
+
+}
+
+
 
