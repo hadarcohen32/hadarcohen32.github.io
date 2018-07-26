@@ -190,6 +190,22 @@ aside {
   border-bottom: 1px solid white;
 }
 
+.about .title {
+  color:#ce502e;
+}
+.about .description {
+  color: #bf8046;
+}
+
+.about .leader {
+  color:#435672;
+}
+
+.about .bio {
+  color:#435672;
+}
+
+
 .title {
 font-size: 26px;
 padding-top: 5%;
